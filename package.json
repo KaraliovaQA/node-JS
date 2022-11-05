@@ -1,0 +1,26 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "по урокам Е. Ковальчука",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WSwetla/node-JS.git"
+  },
+  "author": "Sweta Karaliova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WSwetla/node-JS/issues"
+  },
+  "homepage": "https://github.com/WSwetla/node-JS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
