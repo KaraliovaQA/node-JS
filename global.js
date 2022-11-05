@@ -1,3 +1,6 @@
+// Глобальные объекты (Global Objects)
+
+
 // console.log(global);
 
 // setTimeout(() => {
